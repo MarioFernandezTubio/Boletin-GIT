@@ -1,0 +1,6 @@
+# ignora archivos que empiecen por _
+_*
+
+# excepción para archivo _ayuda.txt
+!_ayuda.txt
+
